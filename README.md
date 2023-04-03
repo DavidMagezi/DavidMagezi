@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DavidMagezi
-- 👀 I’m interested in digital health
+- 👀 I’m a medical doctor with expertise in machine learning
+- [homepage](http://www.magezi.com)
 
 <!---
 DavidMagezi/DavidMagezi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
