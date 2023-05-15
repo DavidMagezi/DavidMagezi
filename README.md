@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidMagezi
-- 👀 I’m a medical doctor with expertise in machine learning
+- 👀 I’m a machine-learning engineer with biomeical expertise
 - [homepage](http://www.magezi.com)
 
 <!---
